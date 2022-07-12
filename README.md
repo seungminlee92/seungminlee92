@@ -9,7 +9,6 @@
 
 Contact
 <a href="mailto:seungminlee92@kakao.com" target="_blank"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&amp;logo=Kakao&amp;logoColor=white"></a>
-<a href="mailto:seungminlee92@kakao.com" target="_blank"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&amp;logo=Kakao&amp;logoColor=white"></a>
 
 I use:pencil2:
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
