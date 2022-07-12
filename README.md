@@ -22,9 +22,12 @@ Want to learn:books:
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
 </div>
 
-<!--
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=seungminlee92)](https://solved.ac/seungminlee92)
+<h1 class="line">
+</h1>
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seungminlee92)](https://solved.ac/seungminlee92)
+
+<!--
 **seungminlee92/seungminlee92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
